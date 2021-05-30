@@ -2,9 +2,9 @@
   <img align="center" alt="Logo UOL" src="https://compasso.com.br/wp-content/uploads/2020/07/LogoCompasso-Negativo.png" />
 </p>
 
-<h2 align="center">
+<h3 align="center">
   DESAFIO BACKEND COMPASSO UOL MONGODB
-</h2>
+</h3>
 
 
 ### Contexto do Desafio
