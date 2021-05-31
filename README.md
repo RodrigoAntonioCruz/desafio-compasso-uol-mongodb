@@ -49,7 +49,7 @@ Para rodar estas aplicações, você deve ter instalado em seu computador:
    <li> sudo docker-compose up
 </ul>
 
-3. Após a execução do processo anterior, estará disponível para acesso em seu browser os seguintes `Endpoints` para teste:
+3. Após a execução dos processos anteriores, estarão disponíveis para acesso em seu browser os seguintes `Endpoints` para teste:
 <ul> 
   <li>
    <a href="http://localhost:9999" target="_blank">API-REST (http://localhost:9999)</a>
