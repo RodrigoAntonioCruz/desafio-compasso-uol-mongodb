@@ -1,8 +1,5 @@
-<p align="center">
-  <img align="center" alt="Logo UOL" src="https://compasso.com.br/wp-content/uploads/2020/07/LogoCompasso-Negativo.png" />
-</p>
-
 <h3 align="center">
+  <img align="center" alt="Logo UOL"  height="100" src="https://webjump.com.br/wp-content/uploads/2021/08/compassuol-logo-min.png" /><br>
   DESAFIO BACKEND COMPASSO UOL MONGODB
 </h3>
 
